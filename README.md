@@ -1,6 +1,9 @@
 Project Zomboid demo
 ====================
 
+Paid version update, [check my Project Zomboid - Linux and OSX launcher](http://jonas.pfenniger.name/project-zomboid-launcher/)
+======================
+
 All rights reserved to the Indie Stone ppl at http://projectzomboid.com/
 
 This is just an adaptation of the demo for mac and linux ppl
